@@ -9,7 +9,7 @@ Castor’s Sky is a sophisticated iOS application that moves beyond simple weath
 </pre>
 Castor’s Sky is built with a modern, robust iOS architecture:
 
-Platform: iOS 17+&nbsp
+Platform: iOS 17+ &nbsp
 UI Framework: SwiftUI
 Architecture: Async/Await, Combine
 Map & Visualization: MapKit, Swift Charts
