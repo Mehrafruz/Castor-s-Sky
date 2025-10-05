@@ -8,6 +8,7 @@ Castor’s Sky is a sophisticated iOS application that moves beyond simple weath
 
 
 🛠️ Technical Highlights
+
 Castor’s Sky is built with a modern, robust iOS architecture:
 Platform: iOS 17+
 UI Framework: SwiftUI
@@ -28,6 +29,7 @@ Castor’s Sky is an iOS app that answers “Will it rain on my parade?” by co
 [Image: Forecast Page showing historical precipitation bar chart and rainy days grid]
 
 🔧 Installation
+
 Clone the repository:
 bash
 git clone https://github.com/your-username/castors-sky.git
@@ -36,6 +38,7 @@ Ensure you are using an iOS 17+ simulator or device.
 Build and run the project (⌘+R).
 
 🚀 Usage
+
 Launch the app to see the live precipitation map.
 Tap any location on the map or use the search bar to find a city.
 View the current conditions and 24-hour forecast in the pull-up card.
