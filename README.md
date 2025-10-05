@@ -16,7 +16,11 @@ Core Innovation: NASAHydrologyManager
      
 Orchestrates all data calls with a primary focus on NASA Time Series Service (NLDAS/GLDAS).     
 Merges and processes hourly data, performing unit conversion (K→°C) and deriving metrics like relative humidity.     
-Implements a circuit breaker and multi-source fallback chain to guarantee data availability, seamlessly patching any gaps in the historical record.     
+Implements a circuit breaker and multi-source fallback chain to guarantee data availability, seamlessly patching any gaps in the historical record.   
+### Демо видео
+<div align="center">
+  
+[![Демо Castor's Sky](https://youtube.com/shorts/a89cGJAaxHk/0.jpg)](https://youtube.com/shorts/a89cGJAaxHk)
 
 <pre>
 🔧 Installation
