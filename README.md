@@ -63,10 +63,15 @@ Tap any location on the map or use the search bar to find a city.
 View the current conditions and 24-hour forecast in the pull-up card.          
 Navigate to the "Forecast" tab to explore the long-term precipitation history and rainfall intensity analysis.          
 
-<div align="center">
+
+
+                    
 
 Built with ❤️ using SwiftUI, MapKit, and the power of NASA science.
 
+
+<div align="center">
+     
 ## 💬 Have Questions?
 
 **Get in touch via:**
