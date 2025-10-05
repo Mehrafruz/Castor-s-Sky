@@ -4,25 +4,16 @@ Castor’s Sky is a sophisticated iOS application that moves beyond simple weath
 
 <p align="center"> <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg" alt="Swift"> <img src="https://img.shields.io/badge/iOS-17+-blue.svg" alt="iOS 17+"> <img src="https://img.shields.io/badge/UI-SwiftUI-orange.svg" alt="SwiftUI"> <img src="https://img.shields.io/badge/Data-NASA-informational.svg" alt="NASA Data"> </p>
 
-
+<pre>
 🛠️ Technical Highlights
-
+</pre>
 Castor’s Sky is built with a modern, robust iOS architecture:
-<pre>
+
 Platform: iOS 17+
-</pre>
-<pre>
 UI Framework: SwiftUI
-</pre>
-<pre>
 Architecture: Async/Await, Combine
-</pre>
-<pre>
 Map & Visualization: MapKit, Swift Charts
-</pre>
-<pre>
 Core Innovation: NASAHydrologyManager
-</pre>
 
 <pre>
 Orchestrates all data calls with a primary focus on NASA Time Series Service (NLDAS/GLDAS).
@@ -39,7 +30,7 @@ Castor’s Sky is an iOS app that answers “Will it rain on my parade?” by co
 [Image: Main Map View with precipitation overlay and pull-up card]
 [Image: Forecast Page showing historical precipitation bar chart and rainy days grid]
 
-</pre>
+<pre>
 🔧 Installation
 </pre>
 Clone the repository:
