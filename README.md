@@ -7,13 +7,12 @@ Castor’s Sky is a sophisticated iOS application that moves beyond simple weath
 <pre>
 🛠️ Technical Highlights
 </pre>
-Castor’s Sky is built with a modern, robust iOS architecture:
-
+Castor’s Sky is built with a modern, robust iOS architecture:     
 Platform: iOS 17+    
-UI Framework: SwiftUI
-Architecture: Async/Await, Combine
-Map & Visualization: MapKit, Swift Charts
-Core Innovation: NASAHydrologyManager
+UI Framework: SwiftUI    
+Architecture: Async/Await, Combine    
+Map & Visualization: MapKit, Swift Charts     
+Core Innovation: NASAHydrologyManager    
 
 <pre>
 Orchestrates all data calls with a primary focus on NASA Time Series Service (NLDAS/GLDAS).
