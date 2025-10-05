@@ -22,8 +22,7 @@ Implements a circuit breaker and multi-source fallback chain to guarantee data a
 🔧 Installation
 </pre>
 Clone the repository:     
-bash     
-git clone https://github.com/your-username/castors-sky.git     
+bash git clone https://github.com/your-username/castors-sky.git     
 Open CastorsSky.xcodeproj in Xcode 15 or later.    
 Ensure you are using an iOS 17+ simulator or device.    
 Build and run the project (⌘+R).    
@@ -31,10 +30,10 @@ Build and run the project (⌘+R).
 <pre>
 🚀 Usage
 </pre>
-Launch the app to see the live precipitation map.
-Tap any location on the map or use the search bar to find a city.
-View the current conditions and 24-hour forecast in the pull-up card.
-Navigate to the "Forecast" tab to explore the long-term precipitation history and rainfall intensity analysis.
+Launch the app to see the live precipitation map.    
+Tap any location on the map or use the search bar to find a city.          
+View the current conditions and 24-hour forecast in the pull-up card.          
+Navigate to the "Forecast" tab to explore the long-term precipitation history and rainfall intensity analysis.          
 
 
 Built with ❤️ using SwiftUI, MapKit, and the power of NASA science.
