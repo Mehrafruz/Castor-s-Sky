@@ -12,9 +12,10 @@
 </div>
 <div align="left">
 Castor’s Sky is a sophisticated iOS application that moves beyond simple weather forecasts. It combines live precipitation mapping with authoritative, long-term precipitation history from NASA, empowering users to make confident, data-driven decisions for any outdoor event.
-
+               
 <p align="center"> <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg" alt="Swift"> <img src="https://img.shields.io/badge/iOS-17+-blue.svg" alt="iOS 17+"> <img src="https://img.shields.io/badge/UI-SwiftUI-orange.svg" alt="SwiftUI"> <img src="https://img.shields.io/badge/Data-NASA-informational.svg" alt="NASA Data"> </p>
 <div align="center">
+     
 ## 📹 Демо (click)
 
 [![Watch the demo](https://img.youtube.com/vi/a89cGJAaxHk/0.jpg)](https://youtu.be/a89cGJAaxHk)       
