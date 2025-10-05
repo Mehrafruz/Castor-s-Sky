@@ -1,10 +1,10 @@
-
+<div align="center">
+     
 # Castor's Sky ☔️
 
 <div align="center">
 
 ![NASA Space Apps 2025](https://img.shields.io/badge/NASA-Space_Apps_2025-0B3D91?style=for-the-badge&logo=nasa)
-![Platform](https://img.shields.io/badge/iOS-17+-000000?style=for-the-badge&logo=apple)
 
 **Answering the age-old question:**  
 **"Will it rain on my parade?"**
