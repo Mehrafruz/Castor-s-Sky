@@ -4,6 +4,8 @@ Castor’s Sky is a sophisticated iOS application that moves beyond simple weath
 
 <p align="center"> <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg" alt="Swift"> <img src="https://img.shields.io/badge/iOS-17+-blue.svg" alt="iOS 17+"> <img src="https://img.shields.io/badge/UI-SwiftUI-orange.svg" alt="SwiftUI"> <img src="https://img.shields.io/badge/Data-NASA-informational.svg" alt="NASA Data"> </p>
 
+![mi](https://github.com/Mehrafruz/Castor-s-Sky/master/Demo.gif)
+
 <pre>
 🛠️ Technical Highlights
 </pre>
