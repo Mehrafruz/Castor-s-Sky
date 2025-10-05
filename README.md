@@ -1,5 +1,16 @@
-Castor’s Sky ☔️
-Answering the age-old question: "Will it rain on my parade?"
+
+# Castor's Sky ☔️
+
+<div align="center">
+
+![NASA Space Apps 2025](https://img.shields.io/badge/NASA-Space_Apps_2025-0B3D91?style=for-the-badge&logo=nasa)
+![Platform](https://img.shields.io/badge/iOS-17+-000000?style=for-the-badge&logo=apple)
+
+**Answering the age-old question:**  
+**"Will it rain on my parade?"**
+
+</div>
+
 Castor’s Sky is a sophisticated iOS application that moves beyond simple weather forecasts. It combines live precipitation mapping with authoritative, long-term precipitation history from NASA, empowering users to make confident, data-driven decisions for any outdoor event.
 
 <p align="center"> <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg" alt="Swift"> <img src="https://img.shields.io/badge/iOS-17+-blue.svg" alt="iOS 17+"> <img src="https://img.shields.io/badge/UI-SwiftUI-orange.svg" alt="SwiftUI"> <img src="https://img.shields.io/badge/Data-NASA-informational.svg" alt="NASA Data"> </p>
@@ -42,3 +53,10 @@ Navigate to the "Forecast" tab to explore the long-term precipitation history an
 
 
 Built with ❤️ using SwiftUI, MapKit, and the power of NASA science.
+
+## 💬 Have Questions?
+
+**Get in touch via:**
+<br>
+[![Telegram](https://img.shields.io/badge/Telegram-@D_lind-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/D_lind)
+[![Email](https://img.shields.io/badge/Email-leila_98_01@mail.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leila_98_01@mail.ru)
