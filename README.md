@@ -1,5 +1,4 @@
 <div align="center">
-     
 # Castor's Sky ☔️
 
 <div align="center">
